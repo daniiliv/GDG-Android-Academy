@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScheduleViewerDevFest</string>
+    <string name="report_name">Aviasales Отели - практический опыт объединения двух приложений</string>
+    <string name="android_tag_name">Android</string>
+    <string name="all_reports_name">Все доклады</string>
+
+
+    <string name="speaker_name">Евгений Шишкин, Android Developer at Aviasales St. Petersburg, Russia</string>
+
+
+
+    <string name="shishkin_report_desc">До недавнего времени у нас независимо существовало два приложения: Aviasales — метапоиск авиабилетов и Hotellook — метапоиск отелей/хостелов/аппартов. И все было хорошо, пока не появилась задача интегрировать возможность поиска и бронирования отелей в приложение Aviasales, для того чтобы увеличить конверсию пользователей в отельную часть и зарабатывать еще больше денег. Так как Aviasales и Hotellook — это совершенно разные проекты с разными командами, разными архитектурными подходами, задача эта оказалась весьма непростой и интересной. Спойлер: В результате объединения приложения свет увидели 2 любопытные open source библиотеки: mrButler и nautilus.</string>
+
+
+
+</resources>
