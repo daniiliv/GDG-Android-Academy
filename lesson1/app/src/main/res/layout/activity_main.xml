@@ -14,30 +14,30 @@
         <TextView
                 android:id="@+id/shishkin_report_name"
                 android:text="@string/shishkin_report_name"
-                android:textSize="20sp"
+                android:textSize="@dimen/textSize"
                 android:textStyle="bold"
                 android:textColor="@color/colorPrimary"
-                android:layout_margin="@dimen/margin_value"
+                android:layout_margin="@dimen/margin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
         <TextView
                 android:id="@+id/ryabov_report_name"
                 android:text="@string/ryabov_report_name"
-                android:textSize="20sp"
+                android:textSize="@dimen/textSize"
                 android:textStyle="bold"
                 android:textColor="@color/colorPrimary"
-                android:layout_margin="@dimen/margin_value"
+                android:layout_margin="@dimen/margin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
         <TextView
                 android:id="@+id/pant_report_name"
                 android:text="@string/pant_report_name"
-                android:textSize="20sp"
+                android:textSize="@dimen/textSize"
                 android:textStyle="bold"
                 android:textColor="@color/colorPrimary"
-                android:layout_margin="@dimen/margin_value"
+                android:layout_margin="@dimen/margin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
