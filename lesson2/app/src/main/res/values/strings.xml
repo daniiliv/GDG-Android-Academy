@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Speaker Page</string>
+    <string name="speaker_name">TANAY\nPANT</string>
+    <string name="speaker_job">Engineering Communications Manager at Research Gate</string>
+    <string name="speaker_location">Berlin, Germany</string>
+    <string name="speaker_info">Tanay Pant is an author, hacker, developer and tech enthusiast. He is best known for his
+        work on “Learning Web-based Virtual Reality” by Apress, “Building a Virtual Assistant for Raspberry Pi” by
+        Apress and “Learning Firefox OS Application Development” published by Packt. He is also an official
+        representative of Mozilla. He has been listed in the about:credits of the Firefox web browser for his
+        contributions to the different open source projects of the Mozilla Foundation. He also writes for a number of
+        websites like SitePoint and Tuts+ where he shares tips and tricks about web development.
+    </string>
+    <string name="report_name">Multiplayer games with WebXR</string>
+    <string name="room">Room 2</string>
+    <string name="tag_name">Frontend</string>
+    <string name="time">11:15</string>
+    <string name="date">27 November</string>
+    <string name="german_flag">German Flag</string>
+    <string name="twitter_icon">Twitter icon</string>
+    <string name="link_icon">Link icon</string>
+</resources>
