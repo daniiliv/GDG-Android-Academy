@@ -18,4 +18,48 @@
     <string name="german_flag">German Flag</string>
     <string name="twitter_icon">Twitter icon</string>
     <string name="link_icon">Link icon</string>
+
+
+
+    <string name="all_reports_name">Все доклады</string>
+
+    <string name="android_tag_name">Android</string>
+    <string name="frontend_tag_name">Frontend</string>
+
+    <string name="shishkin_report_name">Aviasales Отели - практический опыт объединения двух приложений</string>
+    <string name="ryabov_report_name">Kotlin-friendly Annotation Processing</string>
+    <string name="pant_report_name">Multiplayer games with WebXR</string>
+
+
+    <string name="speaker_shishkin_name">Евгений Шишкин, Android Developer at Aviasales St. Petersburg, Russia</string>
+    <string name="speaker_ryabov_name">Сергей Рябов, Mobile Consultant Digital Nomad, Russia</string>
+    <string name="speaker_pant_name">Tanay Pant, Engineering Communications Manager at Research Gate Berlin, Germany
+    </string>
+
+    <string name="shishkin_report_desc">До недавнего времени у нас независимо существовало два приложения: Aviasales —
+        метапоиск авиабилетов и Hotellook — метапоиск отелей/хостелов/аппартов. И все было хорошо, пока не появилась
+        задача интегрировать возможность поиска и бронирования отелей в приложение Aviasales, для того чтобы увеличить
+        конверсию пользователей в отельную часть и зарабатывать еще больше денег. Так как Aviasales и Hotellook — это
+        совершенно разные проекты с разными командами, разными архитектурными подходами, задача эта оказалась весьма
+        непростой и интересной. Спойлер: В результате объединения приложения свет увидели 2 любопытные open source
+        библиотеки: mrButler и nautilus.
+    </string>
+    <string name="ryabov_report_desc">Рекламируя вашему другу Kotlin, как замену Java, наверняка первым аргументом будет
+        тот самый синтаксический сахар, от которого мы получаем профит каждый день: поддержка nullability из коробки,
+        аргументы по умолчанию, свойства-делегаты, data и sealed классы и т.д. Но если нам понадобится прикрутить к
+        проекту процессор аннотаций, то, к сожалению, вся информация, которую получится собрать о нашем коде, будет
+        Java-специфична, а Kotlin-фичи останутся незамеченными. В этом докладе мы выясним, как использовать метаданные,
+        добавляемые Kotlin-компилятором к коду, чтобы получить информацию об использованных особенностях языка, и как
+        использовать её во время обработки аннотаций.
+    </string>
+    <string name="pant_report_desc">Virtual Reality is a technology used for building realistic experiences for games,
+        environments, content display as well as marketing. In this session, I will teach the participants about 3D
+        objects in the web, virtual reality, VR devices, WebVR, WebVR API and finally building games with A-Frame. In
+        this talk, I will also showcase creating a multiplayer game similar to Pokemon Go using WebXR in a live coding
+        session. The live coding session will cover topics such as creating the game scene, importing 3D objects,
+        interaction with objects, adding animations, implementing WebAR and adding multiplayer capability to the game
+        with real time databases. By the end of the session, the participants will have a complete understanding of what
+        WebXR is and they will be able to create cross-browser WebXR experiences as well as multiplayer games similar to
+        Pokemon Go.
+    </string>
 </resources>
